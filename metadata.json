@@ -1,0 +1,8 @@
+
+{
+  "name": "GOLES - Sports Booking Platform",
+  "description": "A high-performance booking platform for sports facilities featuring a sleek dark interface, real-time availability, and an AI-powered booking assistant.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
